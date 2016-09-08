@@ -1,0 +1,17 @@
+{
+  "name": "clicktag",
+  "version": "0.0.1",
+  "description": "ajouter clicktag dans le fichier HTML",
+  "main": "node.js",
+  "dependencies": {},
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Olivier Bezaudin <o.bezaudin@gmail.com> (https://github.com/obeza)",
+  "license": "MIT",
+  "preferGlobal": true,
+  "bin": {
+    "clicktag": "node.js"
+  }
+}
